@@ -14,25 +14,25 @@ Say goodbye to dull and monotonous coding sessions. Dive into a world of lively 
 Coding isn't just about functionality; it's about the experience. That's why the Piglets Touch Theme doesn't just prioritize aesthetics; it ensures your comfort too. Carefully chosen colors and gentle contrasts make long coding sessions a breeze, ensuring your eyes stay fresh and focused. -->
 
 #### Piglets Touch Theme Preview React Components
-![Piglets Touch Theme Preview React Components](./reactcomp.jpg)
+![Piglets Touch Theme Preview React Components](./images/reactcomp.jpg)
 
 #### Piglets Touch Theme Preview Java File
-![Piglets Touch Theme Preview Java File](./Java.png)
+![Piglets Touch Theme Preview Java File](./images/Java.png)
 
 #### Piglets Touch Theme Preview HTML File
-![Piglets Touch Theme Preview HTML File](./html-screen.jpg)
+![Piglets Touch Theme Preview HTML File](./images/html-screen.jpg)
 
 #### Piglets Touch Theme Preview JavaScript File
-![Piglets Touch Theme Preview JavaScript File](./javascript.png)
+![Piglets Touch Theme Preview JavaScript File](./images/javascript.png)
 
 #### Piglets Touch Theme Preview CSS File
-![Piglets Touch Theme Preview CSS File](./css.jpg)
+![Piglets Touch Theme Preview CSS File](./images/css.jpg)
 
 #### Piglets Touch Theme Preview React App.jsx File
-![Piglets Touch Theme Preview React App.jsx File](./Reactapp.jpg)
+![Piglets Touch Theme Preview React App.jsx File](./images/Reactapp.jpg)
 
 #### Piglets Touch Theme Preview VSCODE SIDEBAR
-![Piglets Touch Theme Preview VSCODE SIDEBAR](./sidebar.png)
+![Piglets Touch Theme Preview VSCODE SIDEBAR](./images/sidebar.png)
 
 
 ## Features
