@@ -3,6 +3,7 @@
   "displayName": "Piglets Touch",
   "description": "",
   "version": "0.0.1",
+  "publisher": "NoelGuillenBlas",
   "engines": {
     "vscode": "^1.86.0"
   },
@@ -10,6 +11,19 @@
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "piglet",
+    "webDev",
+    "JavaScript",
+    "pinkTheme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/1uckyswish/piglets-touch"
+  },
   "contributes": {
     "themes": [
       {
