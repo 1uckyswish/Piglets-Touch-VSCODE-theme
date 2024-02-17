@@ -1,0 +1,22 @@
+{
+  "name": "piglets-touch",
+  "displayName": "Piglets Touch",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "icon": "pig_4594994.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Piglets Touch",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Piglets Touch-color-theme.json"
+      }
+    ]
+  }
+}
