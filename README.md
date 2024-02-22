@@ -8,6 +8,8 @@ Picture this: a world where your code isn't just lines and characters, but a can
 ## A Splash of Color, A Touch of Joy
 
 Say goodbye to dull and monotonous coding sessions. Dive into a world of lively hues and cheerful contrasts that make every line of code a delightful sight. Whether you're debugging, refactoring, or crafting new features, let the Piglets Touch Theme infuse your work with an extra dose of joy.
+
+## Check It Out The [Theme Extension Here!](https://marketplace.visualstudio.com/items?itemName=NoelGuillenBlas.piglets-touch) 
 <!-- 
 ## Comfort and Style Combined
 
